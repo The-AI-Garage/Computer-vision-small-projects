@@ -1,1 +1,2 @@
-# Computer-vision-small-projects
+# Computer-vision White Patch and Chromatic Coordinates
+
