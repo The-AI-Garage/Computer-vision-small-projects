@@ -1,6 +1,8 @@
 # Computer-vision White Patch and Chromatic Coordinates
 
-In this project you will 
+In this project you will find two methods to preprocess images in different conditions and how to apply segmentation with the use of HSV.
+
+to be continue...
 
 ### Try this notebook
 
